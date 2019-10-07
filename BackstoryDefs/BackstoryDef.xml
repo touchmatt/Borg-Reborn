@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+<AlienRace.BackstoryDef>
+    <defName>RaccSpyKid</defName>
+    <title>Drone</title>
+	<titleShort>Kid-agent</titleShort>
+    <baseDescription>[PAWN_nameDef] was assimilated by the Borg. [PAWN_pronoun] has no original thoughts anymore and is directed by the hivemind.</baseDescription>
+    <slot>Childhood</slot>
+	<bodyTypeFemale>Female</bodyTypeFemale>
+	<bodyTypeMale>Male</bodyTypeMale>
+	<bodyTypeGlobal>Thin</bodyTypeGlobal>
+	<maleCommonality>20</maleCommonality>
+	<femaleCommonality>20</femaleCommonality>
+    <spawnCategories>
+      <li>RaccBackstory</li>
+    </spawnCategories>
+</AlienRace.BackstoryDef>
+</Defs>
